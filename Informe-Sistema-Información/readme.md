@@ -8,4 +8,4 @@ Steven Obando,
 Kevin Gaviria, 
 Carolina Gaviria.
 
-[Informe_ERP_SAP.docx](https://github.com/user-attachments/files/20374163/Informe_ERP_SAP.docx)
+[Informe-ERP.pdf](https://github.com/user-attachments/files/20374168/Informe-ERP.pdf)
