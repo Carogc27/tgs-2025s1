@@ -1,4 +1,6 @@
-# Taller: Sistema hospitalario
+# Exposición: ESS
+
+Sistema de apoyo a ejecutivos
 
 ## Integrantes
 

@@ -1,6 +1,8 @@
-# Taller: Sistema hospitalario
+# Informe: ERP 
 
-## Integrantes
+Caso SAP
+
+## Integrantes:
 
 Steven Obando
 Kevin Gaviria
