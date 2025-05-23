@@ -2,6 +2,6 @@
 
 ## Integrantes
 
-Steven Obando
-Kevin Gaviria
-Carolina Gaviria
+Steven Obando,
+Kevin Gaviria,
+Carolina Gaviria.
