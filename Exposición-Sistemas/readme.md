@@ -4,6 +4,6 @@ Sistema de apoyo a ejecutivos
 
 ## Integrantes
 
-Steven Obando
-Kevin Gaviria
-Carolina Gaviria
+Steven Obando,
+Kevin Gaviria,
+Carolina Gaviria.
